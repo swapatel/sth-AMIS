@@ -10,4 +10,4 @@ Runs Adaptive Multiple Importance Sampling algorithm for STH (Ascaris) and resam
 
 4) prior files- data and scripts
 
-5) also need to set up approrpiate folders for output
+5) also need to set up appropriate folders for output
